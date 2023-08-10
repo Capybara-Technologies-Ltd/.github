@@ -3,6 +3,6 @@
 </div>
 
 <div>
-  <h2>Welcome to Capybara Technologies</h2>
+  <h2>Welcome to Non Human Intelligence</h2>
   <p>The company behind <a href="https://speechlabs.io/">Speech Labs</a> and <a href="https://disclosurelabs.com">Disclosure Labs</a>.</p>
 </div>
